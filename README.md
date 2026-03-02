@@ -11,9 +11,9 @@ A backend web service for identity reconciliation that links different contact i
 
 ## Hosted Endpoint
 
-> **Base URL:** `<YOUR_HOSTED_URL>`
+> **Base URL:** `https://bitespeed-identity-reconciliation-2c9l.onrender.com`
 >
-> **POST** `/identify`
+> **POST** `https://bitespeed-identity-reconciliation-2c9l.onrender.com/identify`
 
 ## API
 
